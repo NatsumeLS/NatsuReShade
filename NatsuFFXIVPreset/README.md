@@ -14,23 +14,6 @@ Configurations for **qUINT RTGI 0.30** are included.
 
 - Enable **MartyMcFlyDOF** for Depth of Field Effect (Auto Focus on Mouse position)
 
-# Preview
-
-Thavnair [[Comparison](https://imgsli.com/MTAxMjgy)] [[Vanilla](Images/Thavnair_00.png)] [[Preset](Images/Thavnair_00.png)] [[with RTGI](Images/Thavnair_00.png)]
-![](Images/Thavnair.png)
-
-Mare Lamentorum [[Comparison](https://imgsli.com/MTAxMjgw)] [[Vanilla](Images/Mare_Lamentorum_00.png)] [[Preset](Images/Mare_Lamentorum_00.png)] [[with RTGI](Images/Mare_Lamentorum_00.png)]
-![](Images/Mare_Lamentorum.png)
-
-Old Sharlayan [[Comparison](https://imgsli.com/MTAxMjgx)] [[Vanilla](Images/Old_Sharlayan_00.png)] [[Preset](Images/Old_Sharlayan_00.png)] [[with RTGI](Images/Old_Sharlayan_00.png)]
-![](Images/Old_Sharlayan.png)
-
-Natsu (Front) [[Comparison](https://imgsli.com/MTAxMjg0)] [[Vanilla](Images/Natsu_Front.png)] [[Preset](Images/Natsu_Front_00.png)] [[with RTGI](Images/Natsu_Front_00.png)]
-![](Images/Natsu_Front.png)
-
-Natsu (Back) [[Comparison](https://imgsli.com/MTAxMjg1)] [[Vanilla](Images/Natsu_Back.png)] [[Preset](Images/Natsu_Back_00.png)] [[with RTGI](Images/Natsu_Back_00.png)]
-![](Images/Natsu_Back.png)
-
 # **Recommended In-Game Settings**
 - Full Screen Gamma Correction: 75 (**Personal Preference**)
 - Character Lighting: 10
@@ -46,3 +29,19 @@ Natsu (Back) [[Comparison](https://imgsli.com/MTAxMjg1)] [[Vanilla](Images/Natsu
 
 # Changelog
 On my Discord at [#updates](discord.gg/Fgkkq2T)
+
+# Preview
+Thavnair [[Comparison](https://imgsli.com/MTAxMjgy)] [[Vanilla](Images/Thavnair_00.png)] [[Preset](Images/Thavnair_00.png)] [[with RTGI](Images/Thavnair_00.png)]
+![](Images/Thavnair.png)
+
+Mare Lamentorum [[Comparison](https://imgsli.com/MTAxMjgw)] [[Vanilla](Images/Mare_Lamentorum_00.png)] [[Preset](Images/Mare_Lamentorum_00.png)] [[with RTGI](Images/Mare_Lamentorum_00.png)]
+![](Images/Mare_Lamentorum.png)
+
+Old Sharlayan [[Comparison](https://imgsli.com/MTAxMjgx)] [[Vanilla](Images/Old_Sharlayan_00.png)] [[Preset](Images/Old_Sharlayan_00.png)] [[with RTGI](Images/Old_Sharlayan_00.png)]
+![](Images/Old_Sharlayan.png)
+
+Natsu (Front) [[Comparison](https://imgsli.com/MTAxMjg0)] [[Vanilla](Images/Natsu_Front.png)] [[Preset](Images/Natsu_Front_00.png)] [[with RTGI](Images/Natsu_Front_00.png)]
+![](Images/Natsu_Front.png)
+
+Natsu (Back) [[Comparison](https://imgsli.com/MTAxMjg1)] [[Vanilla](Images/Natsu_Back.png)] [[Preset](Images/Natsu_Back_00.png)] [[with RTGI](Images/Natsu_Back_00.png)]
+![](Images/Natsu_Back.png)
