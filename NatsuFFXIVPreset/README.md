@@ -14,6 +14,11 @@ Configurations for **qUINT RTGI 0.30** are included.
 
 - Enable **MartyMcFlyDOF** for Depth of Field Effect (Auto Focus on Mouse position)
 
+# Preview
+Mare Lamentorum [[Comparison](https://imgsli.com/MTAxMjgw)] [[Vanilla](Images/Mare_Lamentorum_00.png)] [[Preset](Images/Mare_Lamentorum_00.png)] [[with RTGI](Images/Mare_Lamentorum_00.png)]
+![](Images/Mare_Lamentorum.png)
+
+
 # **Recommended In-Game Settings**
 - Full Screen Gamma Correction: 75 (**Personal Preference**)
 - Character Lighting: 10
