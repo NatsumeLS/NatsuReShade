@@ -31,17 +31,19 @@ Configurations for **qUINT RTGI 0.30** are included.
 On my Discord at [#updates](discord.gg/Fgkkq2T)
 
 # Preview
+**Click on image to view**
+
 Thavnair [[Comparison](https://imgsli.com/MTAxMjgy)] [[Vanilla](Images/Thavnair_00.png)] [[Preset](Images/Thavnair_00.png)] [[with RTGI](Images/Thavnair_00.png)]
-![](Images/Thavnair.png)
+[![View](Images/Thavnair.png)](https://imgsli.com/MTAxMjgy)
 
 Mare Lamentorum [[Comparison](https://imgsli.com/MTAxMjgw)] [[Vanilla](Images/Mare_Lamentorum_00.png)] [[Preset](Images/Mare_Lamentorum_00.png)] [[with RTGI](Images/Mare_Lamentorum_00.png)]
-![](Images/Mare_Lamentorum.png)
+[![View](Images/Mare_Lamentorum.png)](https://imgsli.com/MTAxMjgw)
 
 Old Sharlayan [[Comparison](https://imgsli.com/MTAxMjgx)] [[Vanilla](Images/Old_Sharlayan_00.png)] [[Preset](Images/Old_Sharlayan_00.png)] [[with RTGI](Images/Old_Sharlayan_00.png)]
-![](Images/Old_Sharlayan.png)
+[![View](Images/Old_Sharlayan.png)](https://imgsli.com/MTAxMjgx)
 
 Natsu (Front) [[Comparison](https://imgsli.com/MTAxMjg0)] [[Vanilla](Images/Natsu_Front.png)] [[Preset](Images/Natsu_Front_00.png)] [[with RTGI](Images/Natsu_Front_00.png)]
-![](Images/Natsu_Front.png)
+[![View](Images/Natsu_Front.png)](https://imgsli.com/MTAxMjg0)
 
 Natsu (Back) [[Comparison](https://imgsli.com/MTAxMjg1)] [[Vanilla](Images/Natsu_Back.png)] [[Preset](Images/Natsu_Back_00.png)] [[with RTGI](Images/Natsu_Back_00.png)]
-![](Images/Natsu_Back.png)
+[![View](Images/Natsu_Back.png)](https://imgsli.com/MTAxMjg1)
