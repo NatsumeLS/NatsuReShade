@@ -16,7 +16,12 @@ Access to beta version of RTGI require at least $5 Tier of [Pascal Gilcher's Pat
 
 - Enable **MartyMcFlyDOF** for Depth of Field Effect (Auto Focus on Mouse position)
 
-# **Recommended In-Game Settings**
+# FPS Impacts
+Tested on GTX 1080Ti
+- NatsuFFXIVPreset ~10 FPS
+- NatsuFFXIVPreset + qUINT RTGI ~40 FPS
+
+# Recommended In-Game Settings
 - Full Screen Gamma Correction: 75 (**Personal Preference**)
 - Character Lighting: 10
 - Edge Smoothing (Anti-Aliasing): FXAA (**Important**)
