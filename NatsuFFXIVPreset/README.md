@@ -1,5 +1,7 @@
 # NatsuFFXIVPreset 6.0 for GShade 3.4.1 / Reshade 4.9.1
 
+[[Download](https://downgit.github.io/#/home?url=https://github.com/NatsumeLS/NatsuReShade/blob/main/NatsuFFXIVPreset/NatsuFFXIVPreset.ini)]
+
 Suitable for both gameplay and screenshot usage.
 
 Focus on being as close as real lighting as possible while not being over saturated.
