@@ -15,6 +15,10 @@ Configurations for **qUINT RTGI 0.30** are included.
 - Enable **MartyMcFlyDOF** for Depth of Field Effect (Auto Focus on Mouse position)
 
 # Preview
+
+Old Sharlayan [[Comparison](https://imgsli.com/MTAxMjgx)] [[Vanilla](Images/Old_Sharlayan_00.png)] [[Preset](Images/Old_Sharlayan_00.png)] [[with RTGI](Images/Old_Sharlayan_00.png)]
+![](Images/Old_Sharlayan.png)
+
 Mare Lamentorum [[Comparison](https://imgsli.com/MTAxMjgw)] [[Vanilla](Images/Mare_Lamentorum_00.png)] [[Preset](Images/Mare_Lamentorum_00.png)] [[with RTGI](Images/Mare_Lamentorum_00.png)]
 ![](Images/Mare_Lamentorum.png)
 
