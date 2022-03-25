@@ -4,7 +4,7 @@
 
 Suitable for both gameplay and screenshot usage.
 
-Focus on being as close as real lighting as possible while not being over saturated.
+Focus on being as close to real lighting as possible while not being over saturated.
 
 Configurations for **qUINT RTGI 0.30** are included.
 
