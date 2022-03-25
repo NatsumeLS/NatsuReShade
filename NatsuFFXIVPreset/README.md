@@ -8,6 +8,8 @@ Focus on being as close as real lighting as possible while not being over satura
 
 Configurations for **qUINT RTGI 0.30** are included.
 
+Access to beta version of RTGI require at least $5 Tier of [Pascal Gilcher's Patreon](https://www.patreon.com/mcflypg)
+
 - **RTGlobalIllumination** is enabled by default (GTX 1070 / RTX 2060 or later is recommended)
 
 - Ghosting on moving objects is caused by low GI responsiveness. (Disable **RTGlobalIllumination**)
